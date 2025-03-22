@@ -16,7 +16,7 @@
 
 ![image](https://i.imgur.com/ehOHcXn.png)
 
-2. Создание в папке `containers05` файл `Dockerfile` со следующим содержимым:
+2. Создание в папке `containers05` файла `Dockerfile` со следующим содержимым:
 
 ```sh
 # create from debian image
