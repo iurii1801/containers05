@@ -368,10 +368,6 @@ COPY files/wp-config.php /var/www/html/wordpress/wp-config.php
 
 В процессе лабораторной работы был собран и запущен Docker-контейнер на базе Debian с установленными Apache2, PHP, MariaDB и системой Supervisor. Также была развернута CMS WordPress, выполнена её первичная настройка и проверка работоспособности через веб-интерфейс. В результате были закреплены навыки работы с Docker, конфигурацией веб-сервера и баз данных, а также развертыванием CMS.
 
-Вот подходящая **библиография** для отчёта по лабораторной работе с Docker, Apache2, MariaDB и WordPress:
-
----
-
 ## Библиография
 
 1. Docker Documentation.[https://docs.docker.com/get-started/overview/](https://docs.docker.com/get-started/overview/)  
